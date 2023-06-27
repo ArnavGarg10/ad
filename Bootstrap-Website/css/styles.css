@@ -1,0 +1,58 @@
+
+#iphone {
+  height: 750px;
+  width: 600px;
+}
+.container-fluid {
+  font-family: "Montserrat";
+  padding-left: 75px;
+}
+
+body {
+    background-color: rgb(255, 99, 99);
+    font-family: "Montserrat";
+}
+
+.navbar {
+  margin-bottom: 3.2rem;
+}
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 1.5rem;
+  font-weight:bold;
+}
+
+.nav-item {
+  margin  : 0% 1%;
+}
+
+.nav-link {
+  font-family: "Ubuntu";
+  font-size: 20px;
+  margin-left: 20px;
+}
+
+.start {
+  margin-right: 20px;
+}
+
+.features {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #e6e6e6;
+}
+
+
+
+.icon {
+  color: #ef8172;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+.mybuttons {
+  margin-bottom: 40px;
+}
